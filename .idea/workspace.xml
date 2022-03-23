@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a18d7b-5457-4885-895e-b25d317d86cb" name="Default Changelist" comment="Final push">
-      <change afterPath="$PROJECT_DIR$/Archive/ROCCurveDokSem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Archive/TUM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Modelle_Paper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Modelle_Paper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Figures/anomalycomparisonsynthAppend1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Figures/anomalycomparisonsynthAppend1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KiviDashboard/robot-students" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
